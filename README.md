@@ -1,1 +1,2 @@
 # qntcnnct
+# authors: emozeika, chefpaul
